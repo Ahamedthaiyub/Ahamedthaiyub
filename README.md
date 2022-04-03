@@ -1,6 +1,6 @@
 <h5 align="center"> Hello there 👋, I am</h5>
 <p align="center">
-<a href="https://AHAMED THAIYUB.me"><img align="center" width="70px" src=""/></a>
+<a href="https://AHAMED THAIYUB.me"><img align="center" width="70px" src="https://github.com/Ahamedthaiyub/Ahamedthaiyub/blob/main/LOGO.png"/></a>
 </p>
 <h2 align="center"> AHAMED THAIYUB </h2>
 
