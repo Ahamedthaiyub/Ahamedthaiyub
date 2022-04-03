@@ -19,7 +19,7 @@ ALL OF MY WORKS ARE UPLOADED HERE
 
 ### Who am I ? 🤔
 
-**I AM DWARAKAN, A GREAT LEADER AND A REPRESENTATIVE OF MY BATCH. I AM A DEDICATED ELECTRICAL ENGINEER AND LEARNING A BUNCH OF USEFUL AND EFFICIENT CODING. I PASSIONATE ON LEADING PROJECTS. I DEDICATE SKILLS THAT I HAVE GAINED TO DO A PROJECT.**
+**I AM AHAMED THAIYUB A, A GREAT LEADER . I AM A DEDICATED COMPUTER SCIENCE AND ENGINEERING AND LEARNING A BUNCH OF USEFUL AND EFFICIENT CODING. I PASSIONATE ON LEADING PROJECTS. I DEDICATE SKILLS THAT I HAVE GAINED TO DO A PROJECT.**
 
 ### 👨‍💻 I write my codes in
 
@@ -78,6 +78,6 @@ ALL OF MY WORKS ARE UPLOADED HERE
 
 ## 📈 My Stats
 <p align='center' >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DWARAKRAM&show_icons=true&theme=dark" width=420/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWARAKRAM&layout=compact&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahamedthaiyub&show_icons=true&theme=dark" width=440/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamedthaiyub&layout=compact&theme=dark">
 <p/>
