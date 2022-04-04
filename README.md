@@ -1,8 +1,8 @@
 <h5 align="center"> Hello there 👋, I am</h5>
 <p align="center">
-<a href="https://AHAMED THAIYUB.me"><img align="center" width="200px" src="https://github.com/Ahamedthaiyub/Ahamedthaiyub/blob/main/LOGO.png"/></a>
+<a href="https://AHAMED THAIYUB A.me"><img align="center" width="200px" src="https://github.com/Ahamedthaiyub/Ahamedthaiyub/blob/main/LOGO.png"/></a>
 </p>
-<h2 align="center"> AHAMED THAIYUB </h2>
+<h2 align="center"> AHAMED THAIYUB A </h2>
 
 <p align="center">
 ALL OF MY WORKS ARE UPLOADED HERE 
