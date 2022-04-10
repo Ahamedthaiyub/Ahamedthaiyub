@@ -8,7 +8,7 @@
 ALL OF MY WORKS ARE UPLOADED HERE 
 </p>
 
-<h4 align="center">Say hello to your friend</h3>
+<h4 align="center">HEY GUYS💀</h3>
 <p align="center">
 <a href="https://twitter.com/AatThaiyub" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@AatThaiyub" height="20" width="30" /></a><a href="https://linkedin.com/in/ahamed-thaiyub-a-76332a220" target="blank">
