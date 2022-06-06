@@ -19,7 +19,7 @@ ALL OF MY WORKS ARE UPLOADED HERE
 
 ### Who am I ? 🤔
 
-** Iam AHAMED a great leader. Iam a dedicated COMPUTER SCIENCE AND ENGINEER and learning a bunch of useful coding. I passionate on leading knowledge. I dedicated skill that I have gained to do a project. Now Iam currently studying in KPR INSTITUTIONS. Iam also a front end developer. SUCCESS IS NOT MY HAPPINESS INSTEAD HAPPINESS MAKES MY WAY TO SUCCESS🏆. 
+** Iam AHAMED a great leader. Iam a dedicated COMPUTER SCIENCE AND ENGINEER and learning a bunch of useful coding. I passionate on leading knowledge. I dedicated skill that I have gained to do a project. Now Iam currently studying in KPR INSTITUTIONS. Iam also a front end developer. "SUCCESS IS NOT MY HAPPINESS INSTEAD HAPPINESS MAKES MY WAY TO SUCCESS🏆". I am a active coder.I usually learn new things daily.
 
 ### 👨‍💻 I write my codes in
 
@@ -64,9 +64,11 @@ ALL OF MY WORKS ARE UPLOADED HERE
 
 ## Misc.
 - I have a great passion towards cooking and serving.
-- I love to spend time with nature. 
+- I love to spend time with nature.
+- I am a bike lover.
 - I am fond of taking good pictures of the mother earth. A photographer.
 - I have a great editing skils.
+- I have good coding skills.
 <p align="center">
 <img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>	
 <img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
