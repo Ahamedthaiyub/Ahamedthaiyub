@@ -19,7 +19,7 @@ ALL OF MY WORKS ARE UPLOADED HERE
 
 ### Who am I ? 🤔
 
-** Iam AHAMED a great leader. Iam a dedicated COMPUTER SCIENCE AND ENGINEER and learning a bunch of useful coding. I passionate on leading knowledge. I dedicated skill that I have gained to do a project. Now Iam currently studying in KPR INSTITUTIONS. Iam also a front end developer. "SUCCESS IS NOT MY HAPPINESS INSTEAD HAPPINESS MAKES MY WAY TO SUCCESS🏆". I am a active coder.I usually learn new things daily.
+*** Iam AHAMED a great leader. Iam a dedicated COMPUTER SCIENCE AND ENGINEER and learning a bunch of useful coding. I passionate on leading knowledge. I dedicated skill that I have gained to do a project. Now Iam currently studying in KPR INSTITUTIONS. Iam also a front end developer. "SUCCESS IS NOT MY HAPPINESS INSTEAD HAPPINESS MAKES MY WAY TO SUCCESS🏆". I am a active coder.I usually learn new things daily.
 
 ### 👨‍💻 I write my codes in
 
